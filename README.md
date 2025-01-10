@@ -53,21 +53,4 @@ pip install numpy pandas matplotlib scikit-learn seaborn
 └── utils/
     └── helper_functions.py         # Optional utility functions (if any)
 
-
----
-
-### **Key Features of the `README.md` Code:**
-1. **Overview:** Provides a brief description of the project and its objectives.
-2. **Problem Statement:** Outlines the tasks to be performed.
-3. **Key Components:** Describes preprocessing steps, SVM models, and evaluation techniques.
-4. **Environment Setup:** Specifies dependencies and setup commands.
-5. **How to Run:** Details the steps to run the Jupyter notebook.
-6. **Project Structure:** Suggests an organized folder structure.
-7. **Sample Code Snippets:** Includes Python code for key tasks such as preprocessing and training SVM models.
-8. **Key Results:** Summarizes the evaluation metrics and findings.
-9. **Conclusion:** Provides a summary of observations and results.
-10. **Acknowledgments:** Lists the author’s name, module, and institution.
-
-This `README.md` is written in a structured, clear, and informative way for easy navigation of the project.
-
-Let me know if you'd like more sections added or refined!
+```
